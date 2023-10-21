@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=690EF7&random=false&width=435&lines=Ol%C3%A1!;+Me+chamo+Laura+Naomi+Ibusuki+Hirano+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=2B94C3&random=false&width=435&lines=-+%F0%9F%8C%B1+Estudando+An%C3%A1lise+de+Desenvolvimento+de+Sistema+no+IFSP;-+%F0%9F%92%BB+Prentendo+trabalhar+na+ar%C3%A9a+de+Web+Designer;-+%F0%9F%98%84+Pronouns%3A+Ela%2FDela)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=2B94C3&random=false&width=435&lines=-+%F0%9F%8C%B1+Estudando+An%C3%A1lise+e+Desenvolvimento+de+Sistema+no+IFSP;-+%F0%9F%92%BB+Prentendo+trabalhar+na+ar%C3%A9a+de+Web+Designer;-+%F0%9F%98%84+Pronouns%3A+Ela%2FDela)](https://git.io/typing-svg)
 
   <a href="[https://github.com/Naomisz12]"> 
  
