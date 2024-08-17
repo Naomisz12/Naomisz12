@@ -5,10 +5,15 @@
 
   <a href="[https://github.com/Naomisz12]"> 
  
-<div> 
+<div align="center"> 
   <a href="[https://github.com/Naomisz12]">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Naomisz12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naomisz12&layout=compact&langs_count=168theme=dracula"></>
+</div>
+
+<div align="center"> 
+  <a href="https://github.com/Naomisz12">
+    <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Naomisz12&layout=compact&card_width=445&border_radius=30&hide_border=false&theme=dracula" /
+  </a>
 </div>
 
 </div>
